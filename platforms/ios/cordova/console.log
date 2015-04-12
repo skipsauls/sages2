@@ -1,0 +1,33 @@
+2015-03-31 22:15:12.074 sages2[69344:4201082] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/ssauls/Library/Developer/CoreSimulator/Devices/292CA885-C17F-4C9B-BEFE-A67D493EB73A/data/Containers/Data/Application/4AA60506-B495-43C2-890F-DCA9EDA93ED4/Library/Cookies/Cookies.binarycookies
+2015-03-31 22:15:12:338 sages2[69344:70b] INFO|SalesforceSDKManager|Launching the Salesforce SDK.
+2015-03-31 22:15:12:366 sages2[69344:70b] INFO|SalesforceSDKManager|processLogoutAndUserSwitchSettings: No updated logout or user switch settings to process.
+2015-03-31 22:15:12:392 sages2[69344:70b] INFO|SFSecurityLockout|Skipping 'lock' since not authenticated
+2015-03-31 22:15:12:392 sages2[69344:70b] INFO|SalesforceSDKManager|Passcode verified, or not configured.  Proceeding with authentication validation.
+2015-03-31 22:15:12:392 sages2[69344:70b] INFO|SalesforceSDKManager|No valid credentials found.  Proceeding with authentication.
+2015-03-31 22:15:12:398 sages2[69344:70b] INFO|SFAuthenticationManager|No current user account, so creating a new one.
+2015-03-31 22:15:12:415 sages2[69344:70b] INFO|SFCrypto|Base app identifier not configured.  Creating a new value.
+2015-03-31 22:15:12:415 sages2[69344:70b] INFO|SFCrypto|Saving the new base app identifier to the keychain.
+2015-03-31 22:15:12:416 sages2[69344:70b] INFO|SFCrypto|Successfully created a new base app identifier and stored it in the keychain.
+2015-03-31 22:15:13.378 sages2[69344:4201082] active
+2015-03-31 22:15:13.382 sages2[69344:4201082] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2015-03-31 22:16:55:256 sages2[69344:70b] INFO|SalesforceSDKManager|Authentication (SFOAuthTypeUserAgent) succeeded.  Launch completed.
+2015-03-31 22:16:55:256 sages2[69344:70b] INFO|AppDelegate|Post-launch: launch actions taken: SFSDKLaunchActionPasscodeVerified|SFSDKLaunchActionAuthenticated
+2015-03-31 22:16:55.258 sages2[69344:4201082] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-31 22:16:55.258 sages2[69344:4201082] Multi-tasking -> Device: YES, App: YES
+2015-03-31 22:16:55.269 sages2[69344:4201082] Unlimited access to network resources
+2015-03-31 22:16:55.291 sages2[69344:4201082] Reachability Flag Status: -R -----l- networkStatusForFlags
+2015-03-31 22:16:55.297 sages2[69344:4201082] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-31 22:16:55.965 sages2[69344:4201082] Resetting plugins due to page load.
+2015-03-31 22:16:57:056 sages2[69344:70b] INFO|SFHybridViewController|Checking https://c.gus.content.force.com/secur/contentDoor?startURL=https%3A%2F%2Fgs0.lightning.force.com%2Fsagepoc%2Fsage.app&sid=[redacted]&skipRedirect=1&display=touch&lm=QEHJ1B_.60WnnEA_i946Og%3D%3D as a 'home page' URL candidate for this app.
+2015-03-31 22:16:57.056 sages2[69344:4201082] Finished load of: https://c.gus.content.force.com/secur/contentDoor?startURL=https%3A%2F%2Fgs0.lightning.force.com%2Fsagepoc%2Fsage.app&sid=00DB00000001JOv%21AQYAQKX0Wr27fAsdVuRfNabiFNA7Ct4bo0H7lb8AtTEg.GwzO.rzF3LVbm3Ox.5iqbCljFT1Zr.r5RLof3PllUDEvVPM2j1O&skipRedirect=1&display=touch&lm=QEHJ1B_.60WnnEA_i946Og%3D%3D
+2015-03-31 22:16:57.728 sages2[69344:4201082] Resetting plugins due to page load.
+2015-03-31 22:17:07:403 sages2[69344:70b] INFO|SFHybridViewController|Checking https://gs0.lightning.force.com/sagepoc/sage.app as a 'home page' URL candidate for this app.
+2015-03-31 22:17:07:403 sages2[69344:70b] INFO|SFHybridViewController|Setting https://gs0.lightning.force.com/sagepoc/sage.app as the 'home page' URL for this app.
+2015-03-31 22:17:07.410 sages2[69344:4201082] Finished load of: https://gs0.lightning.force.com/sagepoc/sage.app
